@@ -7,7 +7,7 @@
 
 ## Fork esse repositório
 
-Fork esse repositório clicando no botão de _Fork_ no topo dessa página. Isso vai criar uma cópia desse repositório na sua conta.
+Fork esse repositório clicando no botãao de _Fork_ no topo dessa página. Isso vai criar uma cópia desse repositório na sua conta.
 
 ## Clone esse repositório
 
